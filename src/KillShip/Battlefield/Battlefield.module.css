@@ -1,17 +1,17 @@
-.battlefield{
-    margin-bottom: 20px;
+.battlefield {
+  margin-bottom: 20px;
 }
 
-.field{
-    height: 40px;
-    display: flex;
-    justify-content: center;
+.field {
+  height: 40px;
+  display: flex;
+  justify-content: center;
 }
 
-.cell{
-    border:1px solid rgb(24, 37, 178);
-    cursor: pointer;
-    background-color: skyblue;
-    min-height: 1em;
-    min-width: 3em;
+.cell {
+  border: 1px solid rgb(24, 37, 178);
+  cursor: pointer;
+  background-color: skyblue;
+  min-height: 1em;
+  min-width: 3em;
 }
